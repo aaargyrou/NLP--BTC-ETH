@@ -16,7 +16,7 @@ Complete the following tasks:
 
 ## Files
 
-[BTC & ETH - Anslysis](Code/crypto_sentiment.ipynb)
+[BTC & ETH - Analysis](Code/crypto_sentiment.ipynb)
 
 ---
 
