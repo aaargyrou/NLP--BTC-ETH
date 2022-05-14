@@ -60,9 +60,9 @@ In this section, I use NLTK and Python to tokenize text, find n-gram counts, and
 
 In this section, you will build a named entity recognition model for both coins and visualize the tags using SpaCy.
 
-![btc-ner.png](Images/btc-ner1.png)
+![btc-ner.png](Images/btc-ner.png)
 
-![eth-ner.png](Images/eth-ner1.png)
+![eth-ner.png](Images/eth-ner.png)
 
 ---
 
